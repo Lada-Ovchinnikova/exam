@@ -1,0 +1,28 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "exam work",
+  "main": "index.html",
+  "scripts": {
+    "test": "gulp"
+  },
+  "keywords": [
+    "automatization",
+    "scss",
+    "html",
+    "gulp"
+  ],
+  "author": "lada",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^5.0.0",
+    "gulp-terser": "^2.0.1",
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {}
+}

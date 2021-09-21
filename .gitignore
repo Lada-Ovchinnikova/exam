@@ -1,0 +1,11 @@
+.idea/
+# windows
+desktop.ini
+Thumbs.db
+# mac
+.DS_Store
+.map
+
+build/
+node_modules/
+bower_componets/
